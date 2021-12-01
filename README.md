@@ -1,3 +1,4 @@
+[![MasterHead](programmer-at-work-concept-banner-software-web-vector-29547331.jpg)](https://github.com/shivamsisodia07)
 <h1 align="center">Hi 👋, I'm SHIVAM SISODIA</h1>
 <h3 align="center">I am a passionate programmer from india.I am an electronics and communication undergraduate at Delhi technological university.</h3>
 
@@ -6,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamsisodia07" alt="shivamsisodia07" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shivam7sisodia" target="blank"><img src="https://img.shields.io/twitter/follow/shivam7sisodia?logo=twitter&style=for-the-badge" alt="shivam7sisodia" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 I’m currently working on **a e-commerce site**
 
 - 🌱 I’m currently learning **Backend Web Development and Api**
