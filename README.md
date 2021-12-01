@@ -36,6 +36,6 @@
 
 <p><img width="455" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamsisodia07&show_icons=true&locale=en&layout=compact" alt="shivamsisodia07" /></p>
 
-<p><img width="430" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsisodia07&" alt="shivamsisodia07" /></p>
+<p><img width="370" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsisodia07&" alt="shivamsisodia07" /></p>
 
 <p>&nbsp;<img width="455" align="left" src="https://github-readme-stats.vercel.app/api?username=shivamsisodia07&show_icons=true&locale=en" alt="shivamsisodia07" /></p>
