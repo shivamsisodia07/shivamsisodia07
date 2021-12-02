@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamsisodia07" alt="shivamsisodia07" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shivam7sisodia" target="blank"><img src="https://img.shields.io/twitter/follow/shivam7sisodia?logo=twitter&style=for-the-badge" alt="shivam7sisodia" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
 - 🔭 I’m currently working on **a e-commerce site**
 
 - 🌱 I’m currently learning **Backend Web Development and Api**
@@ -18,6 +18,9 @@
 
 - ⚡ Fun fact **Hot water will turn into ice faster than cold water.**
 
+
+<br/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/shivam7sisodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam7sisodia" height="30" width="40" /></a>
