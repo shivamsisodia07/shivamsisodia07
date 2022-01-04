@@ -1,6 +1,6 @@
 [![MasterHead](programmer-at-work-concept-banner-software-web-vector-29547331.jpg)](https://github.com/shivamsisodia07)
 <h1 align="center">Hi 👋, I'm SHIVAM SISODIA</h1>
-<h3 align="center">I am a passionate programmer from india.I am an electronics and communication undergraduate at Delhi technological university.</h3>
+<h3 align="center">I am a passionate programmer from india.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsisodia07&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsisodia07" /> </p>
 
