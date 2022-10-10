@@ -1,4 +1,3 @@
-[![MasterHead](programmer-at-work-concept-banner-software-web-vector-29547331.jpg)](https://github.com/shivamsisodia07)
 <h1 align="center">Hi 👋, I'm SHIVAM SISODIA</h1>
 <h3 align="center">I am a passionate programmer from india.</h3>
 
