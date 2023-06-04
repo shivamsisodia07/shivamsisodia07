@@ -41,8 +41,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<p><img width="455" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamsisodia07&show_icons=true&locale=en&layout=compact" alt="shivamsisodia07" /></p>
-
-<p><img width="375" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsisodia07&" alt="shivamsisodia07" /></p>
-
-<p>&nbsp;<img width="455" align="left" src="https://github-readme-stats.vercel.app/api?username=shivamsisodia07&show_icons=true&locale=en" alt="shivamsisodia07" /></p>
+<p>
+  <img width="455" height="500" align="left" src="https://stats.quine.sh/shivamsisodia07/github?theme=dark" alt="shivamsisodia07" />
+  <img width="455" height="500" align="right" src="https://stats.quine.sh/shivamsisodia07/languages-over-time?theme=dark" alt="shivamsisodia07" />
+</p>
+<p>
+  <img width="455" height="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamsisodia07&show_icons=true&locale=en&layout=compact" alt="shivamsisodia07" />
+ <img width="455" height="300" align="right" src="https://github-readme-stats.vercel.app/api?username=shivamsisodia07&show_icons=true&locale=en" alt="shivamsisodia07" />
+</p>
+<p align="center"><img width="455" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsisodia07&" alt="shivamsisodia07" /></p>
