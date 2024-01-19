@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsisodia07&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsisodia07" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamsisodia07" alt="shivamsisodia07" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shivam7sisodia" target="blank"><img src="https://img.shields.io/twitter/follow/shivam7sisodia?logo=twitter&style=for-the-badge" alt="shivam7sisodia" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
 - 🔭 I’m currently working on **a e-commerce site**
 
